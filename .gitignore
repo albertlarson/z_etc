@@ -1,0 +1,17 @@
+*.gz
+*.md5
+*.nc
+*.pt
+.ipynb_checkpoints
+*.mat
+*.nc4
+munks/
+eflows/
+sst_old/
+*.zip
+*.tif
+.git/
+
+
+
+
